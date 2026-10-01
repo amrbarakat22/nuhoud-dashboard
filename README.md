@@ -136,3 +136,13 @@ The dashboard integrates with:
 - Job portal service API (port 4000)
 - File upload service
 - Email notification service
+
+---
+
+## Original Repository
+
+This repository was copied to **amrbarakat22** while preserving the original Git history.
+
+Original repository:
+
+https://github.com/Nuhoud/nuhoud-dashboard
